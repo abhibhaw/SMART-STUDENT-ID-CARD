@@ -9,6 +9,6 @@ Smart Student ID Card is based on latest AR technology. Categorised under projec
 # Team Mates
 - Abhibhaw Asthana
 - RAVI VISHWAKARMA
-- Shravan Narayana
+- Shravan Kuloor Narayana
 - Sayna Parida
 - Ruchi Kushwaha
