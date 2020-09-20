@@ -4,6 +4,8 @@ Smart Student ID Card is based on latest AR technology. Categorised under projec
 
 ### [PROJECT DATA & Testing Files](https://drive.google.com/drive/folders/1jOmK3HrsYQ6bf1EITO57KlwfENgZn5Ia?usp=sharing)
 
+### [DEMO VIDEO](https://youtu.be/cpbkXFYgXcE)
+
 ## TARGET -> HACK CHENNAI
 
 ### Team ZERO BUG
