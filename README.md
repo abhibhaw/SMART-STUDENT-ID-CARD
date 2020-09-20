@@ -21,7 +21,7 @@ Smart Student ID Card is based on latest AR technology. Categorised under projec
 - C#
 - google maps
 
-# How to use
+# How to use (GET ALL THE DETIALS IN THE PROJECT DATA & TESTING FILES, GIVEN ABOVE)
 - first of all intall the apk on your android
 - open the apk and click start button.
 - a camera will open then you can scan th card.
