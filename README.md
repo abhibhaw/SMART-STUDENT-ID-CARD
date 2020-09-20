@@ -14,10 +14,10 @@ Smart Student ID Card is based on latest AR technology. Categorised under projec
 - Ruchi Kushwaha
 
 # Technology used
-$ Unity3d
-$ wikitude sdk
-$ C#
-$ google maps
+- Unity3d
+- wikitude sdk
+- C#
+- google maps
 
 # How to use
 - first of all intall the apk on your android
